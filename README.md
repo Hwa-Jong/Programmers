@@ -5,12 +5,14 @@ My Algorithm in Programmers.(link : [Programemrs](https://programmers.co.kr/))
 ## Level1
 | Problem | My code | 
 | ------- | :------ |
+| [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)  | [python3](https://github.com/Hwa-Jong/Programmers/blob/main/Level1/kth_number.py) |
 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)  | [python3](https://github.com/Hwa-Jong/Programmers/blob/main/Level1/unfinished_athlete.py) |
 
 ----------------
 ## Level2
 | Problem | My code | 
 | ------- | :------ |
+| [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)  | [python3](https://github.com/Hwa-Jong/Programmers/blob/main/Level2/largest_number.py) |
 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)  | [python3](https://github.com/Hwa-Jong/Programmers/blob/main/Level2/functional_development.py) |
 | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)  | [python3](https://github.com/Hwa-Jong/Programmers/blob/main/Level2/truck_cross_bridge.py) |
 | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)  | [python3](https://github.com/Hwa-Jong/Programmers/blob/main/Level2/spicier.py) |
@@ -23,5 +25,6 @@ My Algorithm in Programmers.(link : [Programemrs](https://programmers.co.kr/))
 ## Level3
 | Problem | My code | 
 | ------- | :------ |
-| [디스크 컨트롤](https://programmers.co.kr/learn/courses/30/lessons/42627)  | [python3](https://github.com/Hwa-Jong/Programmers/blob/main/Level3/disk_controller.py) |
-| [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)  | [python3](https://github.com/Hwa-Jong/Programmers/blob/main/Level3/best_album.py) |러
+| [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)  | [python3](https://github.com/Hwa-Jong/Programmers/blob/main/Level3/disk_controller.py) |
+| [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)  | [python3](https://github.com/Hwa-Jong/Programmers/blob/main/Level3/best_album.py) |
+| [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)  | [python3](https://github.com/Hwa-Jong/Programmers/blob/main/Level3/double_priorityqueue.py) |
