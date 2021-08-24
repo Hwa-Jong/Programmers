@@ -13,7 +13,6 @@ def solution(n, edge):
     
     return answer
 
-
 class Node():
     def __init__(self, num):
         self.num = num
