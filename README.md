@@ -41,3 +41,4 @@ My Algorithm in Programmers.(link : [Programemrs](https://programmers.co.kr/))
 | [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)  | [python3](https://github.com/Hwa-Jong/Programmers/blob/main/Level3/double_priorityqueue.py) |
 | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)  | [python3](https://github.com/Hwa-Jong/Programmers/blob/main/Level3/farthest_node.py) |
 | [순위](https://programmers.co.kr/learn/courses/30/lessons/49191)  | [python3](https://github.com/Hwa-Jong/Programmers/blob/main/Level3/ranking.py) |
+| [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)  | [python3](https://github.com/Hwa-Jong/Programmers/blob/main/Level3/integer_triangle.py) |
